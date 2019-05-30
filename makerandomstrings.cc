@@ -1,7 +1,7 @@
 /*
   dice code with boost library
   (c) yukawa satoshi 2007
- $Id: makerandomstrings.cc 12282 2016-03-03 03:51:42Z yuk $
+ $Id$
  */
 
 #include <iostream>
